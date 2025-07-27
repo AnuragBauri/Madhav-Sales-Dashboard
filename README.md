@@ -24,5 +24,6 @@ This project presents a comprehensive **Ecommerce Sales Dashboard** built using 
 - DAX Measures
 - Data Cleaning & Transformation (Power Query)
 
-
+# Dashboard Snapshot
+(Madhav Sales Dashboard) -[https://github.com/AnuragBauri/Madhav-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png]
 
